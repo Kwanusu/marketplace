@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "name": "Classic Leather Wallet",
+        "price": 45.0,
+        "category": "Accessories",
+        "description": "Hand-stitched genuine leather wallet.",
+        "image": "https://images.unsplash.com/photo-1627123424574-72475859428c?w=500"
+    },
+    {
+        "id": 2,
+        "name": "Wireless Noise-Canceling Headphones",
+        "price": 199.99,
+        "category": "Electronics",
+        "description": "Experience pure sound with 30-hour battery life.",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500"
+    },
+    {
+        "id": 3,
+        "name": "Organic Cotton T-Shirt",
+        "price": 25.0,
+        "category": "Clothing",
+        "description": "Soft, breathable, and sustainably sourced.",
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500"
+    },
+    {
+        "id": 4,
+        "name": "Mechanical Gaming Keyboard",
+        "price": 120.0,
+        "category": "Electronics",
+        "description": "RGB backlit keys with tactile switches.",
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500"
+    },
+    {
+        "id": 5,
+        "name": "Ergonomic Desk Chair",
+        "price": 299.5,
+        "category": "Furniture",
+        "description": "Designed for maximum comfort during long work hours.",
+        "image": "https://images.unsplash.com/photo-1505843490538-5133c6c7d0e1?w=500"
+    },
+    {
+        "id": 6,
+        "name": "Minimalist Wall Clock",
+        "price": 35.0,
+        "category": "Decor",
+        "description": "Silent ticking clock with a sleek modern design.",
+        "image": "https://images.unsplash.com/photo-1563861826100-9cb8686be142?w=500"
+    },
+    {
+        "id": 7,
+        "name": "Stainless Steel Water Bottle",
+        "price": 18.0,
+        "category": "Home",
+        "description": "Vacuum-insulated keeps drinks cold for 24 hours.",
+        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500"
+    },
+    {
+        "id": 8,
+        "name": "Smart Fitness Tracker",
+        "price": 89.0,
+        "category": "Electronics",
+        "description": "Tracks heart rate, steps, and sleep cycles.",
+        "image": "https://images.unsplash.com/photo-1557935728-e0050810e14a?w=500"
+    },
+    {
+        "id": 9,
+        "name": "Canvas Laptop Backpack",
+        "price": 55.0,
+        "category": "Accessories",
+        "description": "Water-resistant with padded laptop compartment.",
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500"
+    },
+    {
+        "id": 10,
+        "name": "Bamboo Desk Organizer",
+        "price": 22.0,
+        "category": "Office",
+        "description": "Sustainable wood design for clutter-free desks.",
+        "image": "https://images.unsplash.com/photo-1618424181497-158f9695627c?w=500"
+    },
+    {
+        "id": 11,
+        "name": "Bluetooth Portable Speaker",
+        "price": 40.0,
+        "category": "Electronics",
+        "description": "Compact and waterproof for outdoor adventures.",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbbc22754?w=500"
+    },
+    {
+        "id": 12,
+        "name": "Ceramic Coffee Mug",
+        "price": 12.0,
+        "category": "Kitchen",
+        "description": "Handcrafted matte finish mug, 12 oz.",
+        "image": "https://images.unsplash.com/photo-1517256064527-09c73fc73e38?w=500"
+    },
+    {
+        "id": 13,
+        "name": "Running Shoes",
+        "price": 110.0,
+        "category": "Clothing",
+        "description": "Lightweight and cushioned for high performance.",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
+    },
+    {
+        "id": 14,
+        "name": "Table Lamp with Wireless Charger",
+        "price": 65.0,
+        "category": "Furniture",
+        "description": "Modern LED lamp with built-in phone charger.",
+        "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500"
+    },
+    {
+        "id": 15,
+        "name": "Polarized Sunglasses",
+        "price": 75.0,
+        "category": "Accessories",
+        "description": "UV protection with scratch-resistant lenses.",
+        "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500"
+    },
+    {
+        "id": 16,
+        "name": "Yoga Mat",
+        "price": 30.0,
+        "category": "Sports",
+        "description": "Non-slip eco-friendly rubber surface.",
+        "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500"
+    },
+    {
+        "id": 17,
+        "name": "Desktop Monitor Stand",
+        "price": 48.0,
+        "category": "Office",
+        "description": "Raises monitor to eye level for better posture.",
+        "image": "https://images.unsplash.com/photo-1593642634367-d95a132448a6?w=500"
+    },
+    {
+        "id": 18,
+        "name": "Hand-woven Throw Blanket",
+        "price": 50.0,
+        "category": "Decor",
+        "description": "Soft wool blend, perfect for cozy evenings.",
+        "image": "https://images.unsplash.com/photo-1617391850176-258169997992?w=500"
+    },
+    {
+        "id": 19,
+        "name": "Electric Toothbrush",
+        "price": 95.0,
+        "category": "Electronics",
+        "description": "Sonic vibration for professional cleaning.",
+        "image": "https://images.unsplash.com/photo-1600448901327-0096cf938088?w=500"
+    },
+    {
+        "id": 20,
+        "name": "Leather Notebook",
+        "price": 20.0,
+        "category": "Office",
+        "description": "Refillable journal with high-quality paper.",
+        "image": "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=500"
+    }
+]
